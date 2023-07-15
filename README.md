@@ -23,11 +23,7 @@ I'm backend web developer using Spring Boot.
 
  <!-- ### 🙌 Used at least once -->
 
-<br/><br/>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suynnn&layout=compact)](https://github.com/suynnn/github-readme-stats)
-
-<br/>
+<br/> <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suynnn&show_icons=true&theme=date_night&count_private=true&hide=stars) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su0006)](https://solved.ac/su0006) 
